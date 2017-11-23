@@ -1,8 +1,7 @@
-﻿using ContosoUniversity.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 
-namespace ContosoUniversity
+namespace ContosoUniversity.Models
 {
     public class Student
     {
