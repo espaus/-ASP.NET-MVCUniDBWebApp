@@ -27,7 +27,7 @@ namespace ContosoUniversity.Models
         {
             get
             {
-                return LastName + ", " + FirstMidName;
+                return $"{LastName}, {FirstMidName}";
             }
         }
 
